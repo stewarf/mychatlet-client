@@ -1,0 +1,1 @@
+java -jar "mychatlet-client.jar"
